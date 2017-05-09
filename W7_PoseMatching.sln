@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7_PositionBasedMatching", "W7_PositionBasedMatching\W7_PositionBasedMatching.csproj", "{D0422833-0D7E-450A-AC4E-29C7C9374605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7_AngleBasedMatching", "W7_AngleBasedMatching\W7_AngleBasedMatching.csproj", "{0444FA8F-5C7F-4CB2-A27B-8C066D697C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0422833-0D7E-450A-AC4E-29C7C9374605}.Debug|x86.ActiveCfg = Debug|x86
+		{D0422833-0D7E-450A-AC4E-29C7C9374605}.Debug|x86.Build.0 = Debug|x86
+		{D0422833-0D7E-450A-AC4E-29C7C9374605}.Release|x86.ActiveCfg = Release|x86
+		{D0422833-0D7E-450A-AC4E-29C7C9374605}.Release|x86.Build.0 = Release|x86
+		{0444FA8F-5C7F-4CB2-A27B-8C066D697C44}.Debug|x86.ActiveCfg = Debug|x86
+		{0444FA8F-5C7F-4CB2-A27B-8C066D697C44}.Debug|x86.Build.0 = Debug|x86
+		{0444FA8F-5C7F-4CB2-A27B-8C066D697C44}.Release|x86.ActiveCfg = Release|x86
+		{0444FA8F-5C7F-4CB2-A27B-8C066D697C44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
